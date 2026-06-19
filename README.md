@@ -1,4 +1,4 @@
-# <p align="center"><img src="assets/unspeed.png" width="128" alt="Unspeed logo"></p>
+# <p align="center"><img src="assets/unspeed.png" width="256" alt="Unspeed logo"></p>
 > [!IMPORTANT]
 > This "proxy" is **NOT OUT** yet. Please don't pester me into releasing it. It'll release mid-late August of 2026.
 
