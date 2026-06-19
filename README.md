@@ -1,4 +1,4 @@
-## ![Unspeed](assets/unspeed.png)
+### ![Unspeed](assets/unspeed.png)
 > [!IMPORTANT]
 > This "proxy" is **NOT OUT** yet. Please don't pester me into releasing it. It'll release mid-late August of 2026.
 
