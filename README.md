@@ -5,7 +5,7 @@ A "proxy" that lets you bypass website blocks from Lightspeed Filter.
 > This "proxy" is **NOT OUT** yet. It'll release mid-late August of 2026. This proxy **ONLY** works for **Lightspeed Filter Agent**. Support for other filters is **not planned**.
 
 ## How does Unspeed work exactly?
-I have to be vague in order for the patch to take longer, but while decompiling, I've noticed Lightspeed Filter has a flaw where if a certain URL contains a specific string, the request will not be intercepted any further. I've tested it with a bookmark and it indeed worked! The tab got blocked after like half a second. 
+I have to be vague in order for the patch to take longer, but while decompiling Lightspeed Filter's worker code, I've noticed Lightspeed Filter has a flaw where if a request's URL contains a specific string, the request will not be intercepted any further. I've tested the bug with a bookmark and I could access a blocked website for around half a second!
 
 A few days later, I had the thought of embedding an iframe with this bug and it allowed me to visit a stripped down version of a blocked website.
 
